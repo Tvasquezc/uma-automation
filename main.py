@@ -23,7 +23,7 @@ download_path = os.path.join(os.getcwd(), "descargas")
 if not os.path.exists(download_path):
     os.makedirs(download_path)
 
-ruta_credenciales = r"C:\Users\tomas\OneDrive\Documents\MyCode\UMA\credenciales.json"
+ruta_credenciales = "credenciales.json"
 nombre_sheet = "Reporte UMA Bajaj"
 
 # ⚠️ CAMBIA ESTO POR TU COLUMNA REAL ÚNICA
