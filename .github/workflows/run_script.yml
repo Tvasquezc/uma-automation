@@ -2,7 +2,7 @@ name: Ejecutar Script Diario
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # 1:00 AM Colombia
+    - cron: '0 9 * * *'  # 4:00 AM Colombia
   workflow_dispatch:
 
 jobs:
