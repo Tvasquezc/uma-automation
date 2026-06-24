@@ -461,7 +461,7 @@ print(
 
 driver.quit()
 
-print("🌐 Navegador cerrado")
+print("🌐 Navegador cerrado.")
 
 ruta_excel = combinar_excels()
 
